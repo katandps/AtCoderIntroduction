@@ -1,0 +1,1 @@
+docker run -v ${PWD}/src:/var/src -it php:7.0-zts-jessie php /var/src/main.php
